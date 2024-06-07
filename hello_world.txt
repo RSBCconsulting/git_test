@@ -1,1 +1,2 @@
 oh I didn't add anything in here, time to add some mroe text
+this is the second edit to see if my commit message will open in neovim
